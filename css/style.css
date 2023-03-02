@@ -44,14 +44,11 @@ input[type=checkbox]{
   bottom: .12em;
   border:0em;
 }
-input[type=submit] {
-  width: 50%;
-  background-color: Gray;
-  color: white;
-  padding: 14px 1.2em;
-  cursor: pointer;
-  margin: 1.2em 0em;
-  border:0em;
+#Terms {
+  color:blue;
+}
+#Terms:hover {
+  	background-color:lightblue;
 }
 input[type=submit]:hover {
   	background-color:DarkGray;

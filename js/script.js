@@ -9,7 +9,7 @@ function init(){
 	};
   };
   function ListTerms(){
-    window.alert("By completing this survey you agree to forfet all rights to sue over the use of this data by our compnay. Furthermore, by agreeing to this you agree to recive the company newsletter.");
+    window.alert("By completing this survey you agree to forfet all rights to sue over the use of this data by our compnay. Furthermore, by agreeing to this you agree to recive the company newsletter");
   }
   var submitbt = document.getElementById('submitbt');
   submitbt.addEventListener('click',Submition);
