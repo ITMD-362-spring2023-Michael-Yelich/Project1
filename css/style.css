@@ -2,7 +2,9 @@ body{
   text-align:center;
   font-family: Garamond, Georgia, serif;
   padding: .6em;
-  background-color: #C5C6D0;
+  background-image:url("../Images/fruit.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 h1{
   line-height:1.5em;
