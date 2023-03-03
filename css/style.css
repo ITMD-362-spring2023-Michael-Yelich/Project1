@@ -1,8 +1,8 @@
 body{
+  background-color: #dee8e8;
   text-align:center;
   font-family: Georgia, serif;
   padding: .6em;
-  background-image:url("../Images/fruit.png");
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -10,10 +10,10 @@ h1{
   line-height:1.5em;
   font-size:2.4em;
   margin: .17em 0em;
-  color:white;
+  color:black;
 }
-p, p2{
-  color:white;
+p{
+  color:black;
   font-size:1.1em;
   line-height:1.2em;
 }
@@ -54,14 +54,19 @@ input[type=submit]:hover {
   	background-color:DarkGray;
 }
 @media only screen and (min-width: 800px) {
+body{
+  background-image:url("../Images/fruit.png");
+}
 h1{
   line-height:1.5em;
   font-size:2.5em;
   margin:.5em;
+  color:white;
 }
 p{
   font-size:1.1em;
   line-height:1.2em;
+  color:white;
 }
 ol{
   font-size:1.2em;
