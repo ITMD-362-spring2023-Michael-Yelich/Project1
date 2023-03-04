@@ -53,10 +53,12 @@ input[type=checkbox]{
 input[type=submit]:hover {
   	background-color:DarkGray;
 }
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 1100px){
 body{
   background-image:url("../images/fruit.PNG");
 }
+}
+@media only screen and (min-width: 800px) {
 h1{
   line-height:1.5em;
   font-size:2.5em;
