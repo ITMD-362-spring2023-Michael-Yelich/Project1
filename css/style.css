@@ -1,7 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&display=swap');
 body{
   background-color: #dee8e8;
   text-align:center;
-  font-family: Georgia, serif;
+  font-family: Georgia,'IBM Plex Serif', serif;
   padding: .6em;
   background-repeat: no-repeat;
   background-size: 100%;
