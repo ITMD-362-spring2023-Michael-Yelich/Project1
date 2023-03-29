@@ -27,7 +27,7 @@ ol{
   margin: 5% 5%;
 }
 input[type=text], input[type=email]{
-  width: 12em;
+  width: 90%;
   padding: .3em .3em;
   margin: 1.2em 1.2em;
   display: inline-block;
@@ -37,7 +37,7 @@ input[type=text], input[type=email]{
 }
 input[type=checkbox]{
   margin: 1.2em 0px;
-  width:1.2em;
+  width:90%;
   height:1.2em;
   vertical-align: middle;
   position: relative;
